@@ -33,8 +33,8 @@ Ensure you have Python 3.9 or higher installed.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/zim-real-estate-avm.git
-cd zim-real-estate-avm
+git clone https://github.com/your-org/MSACS512_ASSIGNMENT1.git
+cd MSACS512_ASSIGNMENT1
 
 ```
 
