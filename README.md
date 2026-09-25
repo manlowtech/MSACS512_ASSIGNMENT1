@@ -1,3 +1,6 @@
+#Student Details
+Manlow Charumbira 
+Reg Number ,R2634977 
 # Automated Valuation Model (AVM) — End-to-End Execution Guide
 
 This repository contains the complete end-to-end processing pipeline, model training, conformal prediction framework, and diagnostic evaluation scripts for the **Real Estate Automated Valuation Model (AVM)** focused on Zimbabwean suburban property markets.
